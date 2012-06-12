@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<keymap version="1" name="Eclipsified" parent="Eclipse">
+  <action id="CloseActiveTab" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="control W" />
+  </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="control 7" />
+  </action>
+  <action id="Console.Jdbc.Close" />
+  <action id="DatabaseView.SynchronizeAction" />
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="control I" />
+  </action>
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="control H" />
+  </action>
+  <action id="GotoBookmark7" />
+  <action id="StepInto">
+    <keyboard-shortcut first-keystroke="F5" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="shift alt ENTER" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="shift alt DOWN" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="shift alt LEFT" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="shift alt RIGHT" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="shift alt UP" />
+  </action>
+  <action id="Synchronize" />
+  <action id="UML.ApplyCurrentLayout" />
+</keymap>
+
