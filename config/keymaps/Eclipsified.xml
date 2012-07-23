@@ -8,6 +8,12 @@
     <keyboard-shortcut first-keystroke="control 7" />
   </action>
   <action id="Console.Jdbc.Close" />
+  <action id="Cvs.WatchOn">
+    <keyboard-shortcut first-keystroke="control alt NUMPAD7" />
+  </action>
+  <action id="Cvs.Watchers">
+    <keyboard-shortcut first-keystroke="control alt NUMPAD8" />
+  </action>
   <action id="DatabaseView.SynchronizeAction" />
   <action id="Find">
     <keyboard-shortcut first-keystroke="control I" />

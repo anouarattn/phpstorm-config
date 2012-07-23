@@ -18,3 +18,4 @@ Comment with line block
 Installation (Linux):
 ---------------------
     cp config/keymaps/Eclipsified.xml ~/.WebIde40/config/keymaps/Eclipsified.xml
+    cp config/colors/Twilightify.xml ~/.WebIde40/config/colors/Twilightify.xml
